@@ -1,0 +1,9 @@
+pt-BR:  
+  activerecord:
+    errors:
+      messages:
+        future_date: "deve ser uma data futura"
+        cannot_be_after_end_at: "a data de início não pode ser maior do que a data de término"
+        rent_not_be_same: "a data selecionada para alugar a sala não está disponível"
+        unavailable_date: "a data selecionada já foi reservada para consulta"
+        
